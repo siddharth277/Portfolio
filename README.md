@@ -2,6 +2,15 @@
 
 A high-end, cinematic web portfolio built to showcase creative work with stunning visuals, smooth scroll animations, and a modern aesthetic.
 
+
+The animation below showcases the complete cinematic experience of the portfolio website.
+
+<p align="center">
+  <img src="portfolio.gif" alt="Portfolio Demo" width="100%"/>
+</p>
+
+---
+
 ## 🚀 Technologies Used
 
 - **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
