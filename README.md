@@ -1,4 +1,4 @@
-# Siddhant Shukla - Cinematic Portfolio
+# Cinematic Portfolio
 
 A high-end, cinematic web portfolio built to showcase creative work with stunning visuals, smooth scroll animations, and a modern aesthetic.
 
